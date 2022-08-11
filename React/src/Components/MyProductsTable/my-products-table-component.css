@@ -1,0 +1,68 @@
+.product-image {
+  width: 11em;
+  height: 10em;
+  cursor: pointer;
+}
+.image-td {
+  width: 15em;
+}
+
+.btns-td {
+  margin-left: 20em;
+}
+
+.my-products-row {
+  border-bottom: 3px solid rgb(215, 45, 238);
+}
+
+.title-product {
+  font-size: 1.2em;
+  font-weight: bold;
+  width: 10em;
+  color: black;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  margin-right: 4em;
+}
+
+.btn-edit {
+  background-color: rgb(116, 255, 116);
+  font-size: 1em;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.btn-delete {
+  background-color: rgb(255, 96, 96);
+  font-size: 1em;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+@media only screen and (max-width: 650px) {
+  .product-image {
+    width: 7em;
+    height: 7em;
+    cursor: pointer;
+  }
+  .title-product {
+    font-size: 0.8em;
+    font-weight: bold;
+    color: black;
+    width: 14em;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    margin-right: 0;
+  }
+  .btn-edit {
+    background-color: rgb(116, 255, 116);
+    font-size: 0.7em;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-weight: bold;
+  }
+
+  .btn-delete {
+    background-color: rgb(255, 96, 96);
+    font-size: 0.7em;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-weight: bold;
+  }
+}

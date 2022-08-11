@@ -1,0 +1,24 @@
+.card-to-home {
+  width: 15em;
+  cursor: pointer;
+  border: 3px solid purple;
+  border-radius: 7px;
+  margin-top: 30px;
+  margin-left: 10px;
+  margin-bottom: 30px;
+  background-color: rgb(255, 245, 233);
+}
+
+.card-to-home:hover {
+  box-shadow: 10px 10px 10px black;
+}
+
+.card-product-body-home {
+  height: 5em;
+}
+
+.product-card-home-title {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-weight: 600;
+  color: rgb(27, 200, 253);
+}

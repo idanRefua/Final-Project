@@ -1,0 +1,48 @@
+.add-product-title {
+  color: rgb(157, 252, 130);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 2.7em;
+  font-weight: 700;
+  border-bottom: 4px solid rgba(189, 242, 175, 1);
+  text-shadow: 5px 5px 3px black;
+}
+
+.add-prodcut-form {
+  background: rgb(238, 174, 202);
+  background: linear-gradient(
+    250deg,
+    rgba(238, 174, 202, 1) 2%,
+    rgba(232, 242, 175, 1) 87%
+  );
+  padding: 40px;
+  border-radius: 30px;
+  box-shadow: rgb(255, 255, 227) -15px -10px 5px;
+}
+.validate-errors {
+  background-color: rgb(249, 138, 138);
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.label-category {
+  background-color: rgb(160, 255, 255);
+  color: rgb(112, 0, 218);
+  font-size: 1.2em;
+  font-weight: 700;
+}
+
+.form-label {
+  color: rgb(112, 0, 218);
+}
+
+.form-select {
+  font-weight: 700;
+}
+.option-select {
+  font-weight: 700;
+}
+
+.add-product-msg {
+  background-color: rgb(115, 255, 138);
+  font-size: 1.5em;
+}

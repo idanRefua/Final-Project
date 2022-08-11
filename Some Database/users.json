@@ -1,0 +1,145 @@
+[{
+  "_id": {
+    "$oid": "62b026b168a72e1a92cef973"
+  },
+  "email": "idan71@gmail.com",
+  "password": "$2a$10$O./GAVQzgxISdXXdfASbZeq56LkVYxphDXB6aA.mx/cO0i7Um4hrS",
+  "firstname": "Idan",
+  "lastname": "Smith",
+  "phone": "0583577895",
+  "isAdmin": true,
+  "likes": [],
+  "__v": 0,
+  "cart": []
+},{
+  "_id": {
+    "$oid": "62b0276168a72e1a92cef97d"
+  },
+  "email": "idan44@gmail.com",
+  "password": "$2a$10$jAA31inWagOKQF3HuYTubuIvel/RYnNOReOAdZSed0a14HUiYIaBu",
+  "firstname": "IdanE",
+  "lastname": "Smith",
+  "phone": "123456789",
+  "isAdmin": true,
+  "likes": [],
+  "__v": 0,
+  "cart": []
+},{
+  "_id": {
+    "$oid": "62b97ff787c6562d16cd67a8"
+  },
+  "email": "idan55@gmail.com",
+  "password": "$2a$10$6kMsWey868l.2O/GLJGlWum0h37zI7u2wVpbi0X.OaplVPkLAWtoG",
+  "firstname": "Idan",
+  "lastname": "Box",
+  "isAdmin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62bac696875a5fa10994abd6"
+  },
+  "email": "idan443@gmail.com",
+  "password": "$2a$10$U.ougyk2TWaj9sVM0CmwIuomKtqF1hvIZ4tSijeKigaVyXrSF.KAy",
+  "firstname": "Shahar",
+  "lastname": "Smith",
+  "isAdmin": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62bc236b99feee625e4dd739"
+  },
+  "email": "idan554@gmail.com",
+  "password": "$2a$10$79K/PHqCXqIHlTlbK3YtPudLpiqIO2juUNpKZLshPweIc3WAIKFI6",
+  "firstname": "Idan",
+  "lastname": "Smith",
+  "isAdmin": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62bc3d2eda7410f12daca9e0"
+  },
+  "email": "idan77@gmail.com",
+  "password": "$2a$10$uXZuNsBIR8Kg.kiQ.R.Qc.6xyeU9nq0IgTvdJ8cyjYcDJcC5wU2M6",
+  "firstname": "Idan",
+  "lastname": "SmithG",
+  "isAdmin": true,
+  "cart": [
+    "62b835147a84c31e7adaef29",
+    "62b97c9387c6562d16cd6771"
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62c2bc11b6bffda3decd33a4"
+  },
+  "email": "idan11@gmail.com",
+  "password": "$2a$10$0W5ekl5HCWuAF92olFQeSO8t9Wei/u4udYZ90J92ZyCL6E7AVY29a",
+  "firstname": "Idan",
+  "lastname": "Smith",
+  "isAdmin": true,
+  "cart": [],
+  "__v": 0,
+  "phone": "1234567"
+},{
+  "_id": {
+    "$oid": "62ce9fcbbdcd32fe8ccabd19"
+  },
+  "email": "woadk@gmail.com",
+  "password": "$2a$10$kD8pZrXa57FR.98gwaQDae5hkqh3SJktZTa4/Mzxw8lvTgYJ3A3FK",
+  "firstname": "Idan",
+  "lastname": "Smith",
+  "phone": "1234567891",
+  "isAdmin": true,
+  "cart": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62cea1687964fd89f76547b4"
+  },
+  "email": "djakw@walla.com",
+  "password": "$2a$10$/LuEDu6r6gTZfc84Iemp/.u8KMcp.Rx1F2EieaJpvqdlm1Pt5lA1i",
+  "firstname": "Idan",
+  "lastname": "Mango",
+  "phone": "123456789",
+  "isAdmin": false,
+  "cart": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62d534f5b2bb92b8f5297956"
+  },
+  "email": "idan88@gmail.com",
+  "password": "$2a$10$zy2jWNoAlB2UcuqrQ9xNBO4BrE.qZMV9HktgH8df1nollungPXDPe",
+  "firstname": "Idan",
+  "lastname": "Smith",
+  "phone": "0936936924",
+  "isAdmin": false,
+  "cart": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e3c194dadcc22ca2eacd86"
+  },
+  "email": "idan6208@gmail.com",
+  "password": "$2a$10$XLtHApdzkD0WDNPHckkgR..s4kjeaNNvp66wMg3/emg9CSmly/sOu",
+  "firstname": "Idan",
+  "lastname": "Smith",
+  "phone": "123456789",
+  "isAdmin": true,
+  "cart": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f29c456367baf8d05c3a03"
+  },
+  "email": "idan8811@gmail.com",
+  "password": "$2a$10$NFGOroJZoERodCoqVU3HCuioo3FZJwj9rHJdju64.Q/IIaizD4kL6",
+  "firstname": "Idan",
+  "lastname": "Gogo",
+  "phone": "123456789",
+  "isAdmin": false,
+  "cart": [
+    "62b83fdc0d59e37802efd9fb"
+  ],
+  "__v": 0
+}]

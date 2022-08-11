@@ -1,0 +1,29 @@
+.img-not-found-page {
+  height: 40em;
+  width: 40em;
+  border-radius: 100px;
+}
+
+.box-img-not-found {
+  position: relative;
+  text-align: center;
+}
+.center-text {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.not-found-title {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 2.5em;
+  color: aliceblue;
+  font-weight: 700;
+}
+.text-not-found {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 1.5em;
+  color: rgb(96, 231, 231);
+  font-weight: 700;
+}

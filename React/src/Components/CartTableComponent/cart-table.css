@@ -1,0 +1,14 @@
+.cart-image-product {
+  width: 15em;
+  height: 10em;
+  cursor: pointer;
+}
+.price-product-table {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 1.4em;
+}
+.btn-remove {
+  background-color: rgb(255, 102, 102);
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-weight: 700;
+}

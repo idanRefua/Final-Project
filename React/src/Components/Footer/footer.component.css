@@ -1,0 +1,18 @@
+.footer-main {
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  /* position: relative; */
+  background: rgb(237, 71, 105);
+  background: linear-gradient(
+    21deg,
+    rgba(237, 71, 105, 1) 10%,
+    rgba(165, 196, 244, 1) 71%
+  );
+}
+
+.fa-footer-comp {
+  background-color: rgb(169, 78, 255);
+  color: bisque;
+}

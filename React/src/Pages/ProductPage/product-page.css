@@ -1,0 +1,64 @@
+.product-title {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+}
+
+.img-product {
+  height: 25em;
+  width: 30em;
+}
+.description-product {
+  word-wrap: break-word;
+}
+.btn-add-favourite {
+  background-color: rgb(129, 255, 129);
+  margin-right: 20px;
+  white-space: break-word;
+}
+
+.btn-remove-favourite {
+  background-color: rgb(255, 116, 116);
+  margin-right: 20px;
+}
+
+.btn-add-to-cart {
+  background-color: rgb(129, 255, 129);
+}
+.btn-remove-from-cart {
+  background-color: rgb(255, 116, 116);
+}
+.product-reviews-table {
+  border: 3px solid black;
+  box-shadow: rgb(237, 250, 181) 5px 5px 5px;
+}
+
+.reviews-title {
+  color: rgb(157, 252, 130);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 2.5em;
+  font-weight: 700;
+  border-bottom: 4px solid rgba(189, 242, 175, 1);
+  text-shadow: 3px 5px 3px black;
+}
+
+.input-write-review {
+  width: 60vw;
+  border: 3px solid black;
+  border-radius: 15px;
+}
+
+.write-review-label {
+  color: rgb(91, 209, 193);
+  font-size: 1.4em;
+  font-weight: 700;
+}
+.btn-add-review {
+  background: rgb(157, 252, 130);
+}
+
+.error-review {
+  background-color: rgb(249, 138, 138);
+  font-size: 1.2rem;
+  font-weight: 600;
+  border-radius: 5px;
+}

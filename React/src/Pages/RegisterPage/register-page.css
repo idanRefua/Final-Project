@@ -1,0 +1,47 @@
+.register-title {
+  font-family: arial;
+  font-weight: 700;
+  color: rgb(128, 128, 255);
+  border-bottom: 2px solid rgb(128, 128, 255);
+}
+
+.box-register-form {
+  background: rgb(115, 197, 242);
+  background: linear-gradient(
+    300deg,
+    rgba(115, 197, 242, 1) 16%,
+    rgba(238, 244, 165, 1) 77%
+  );
+  padding: 15px;
+  border: 3px solid rgb(128, 128, 255);
+  width: 45em;
+  border-radius: 20px;
+  box-shadow: 15px 15px 15px rgb(66, 66, 66), 9px 9px 9px rgb(253, 253, 204);
+}
+
+.form-label {
+  font-size: 1.3rem;
+}
+
+.validate-errors {
+  background-color: rgb(249, 138, 138);
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.login-button {
+  font-size: 1.1em;
+  font-weight: 700;
+  width: 10em;
+  background-color: rgb(147, 147, 255);
+  border-radius: 10px;
+}
+
+.form-label {
+  font-weight: 600;
+  color: rgb(106, 106, 233);
+}
+
+.admin-button-check {
+  font-size: 1.1em;
+}

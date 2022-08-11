@@ -1,0 +1,39 @@
+.activeLink {
+  background-color: rgb(255, 255, 199);
+  border-radius: 10px;
+}
+
+.main-nav {
+  background: rgb(237, 71, 105);
+  background: linear-gradient(
+    90deg,
+    rgba(237, 71, 105, 1) 25%,
+    rgba(126, 145, 242, 1) 71%
+  );
+  left: 0;
+  top: 0;
+  font-size: 1em;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.active {
+  color: rgb(23, 44, 21) !important;
+}
+.drop-down-links {
+  background-color: rgb(237, 222, 222);
+}
+.title-store {
+  color: purple;
+  font-weight: bold;
+}
+
+.person-menu {
+  list-style-type: none;
+  margin-right: 20px;
+}
+
+.my-profile {
+  color: rgb(246, 160, 15);
+  font-weight: bold;
+}

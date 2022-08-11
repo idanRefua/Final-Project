@@ -1,0 +1,21 @@
+.laptops-page-title {
+  color: rgb(157, 252, 130);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 2.8em;
+  font-weight: 700;
+  border-bottom: 4px solid rgba(189, 242, 175, 1);
+  text-shadow: 3px 3px 3px black;
+}
+
+.input-search-laptops {
+  border: 4px rgb(119, 93, 121) solid;
+  border-radius: 10px;
+  padding: 5px;
+  font-size: 1.2em;
+  margin-bottom: 5px;
+}
+
+.filter-price-box {
+  width: 13em;
+  background-color: rgb(189, 255, 255);
+}

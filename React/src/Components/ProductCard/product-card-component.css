@@ -1,0 +1,42 @@
+.product-card-title {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: rgb(24, 114, 114);
+}
+
+.product-card {
+  padding: 5px;
+  background: rgb(243, 255, 254);
+  background: linear-gradient(
+    49deg,
+    rgba(243, 255, 254, 1) 0%,
+    rgba(252, 255, 212, 1) 100%
+  );
+
+  border: 2px black solid;
+  border-radius: 10px;
+  cursor: pointer;
+  margin: 10px;
+}
+.product-card:hover {
+  box-shadow: 4px 4px 4px black;
+}
+.card-img-top {
+  height: 10rem;
+}
+
+.product-shortinfo {
+  font-size: 1.1em;
+  font-weight: 500;
+}
+
+.product-price {
+  font-size: 1.3em;
+  font-weight: bolder;
+  position: absolute;
+
+  bottom: 0;
+  left: 5em;
+
+  color: rgb(91, 91, 255);
+}
