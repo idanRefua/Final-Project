@@ -26,6 +26,11 @@ const DesktopPcProductsPage = () => {
         return val;
       } else if (
         val.title.toLowerCase().includes(e.target.value.toLowerCase()) &&
+        priceFilter === "All"
+      ) {
+        return val;
+      } else if (
+        val.title.toLowerCase().includes(e.target.value.toLowerCase()) &&
         priceFilter
       ) {
         return val.price < priceFilter;
@@ -112,6 +117,12 @@ const DesktopPcProductsPage = () => {
               </select>
             </div>
             {renderData()}
+
+            {filterArr.length === 0 && (
+              <h2 className="d-flex align-items-center justify-content-center">
+                No Found Products
+              </h2>
+            )}
           </div>
         </div>
       </div>
